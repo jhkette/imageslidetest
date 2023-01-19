@@ -1,0 +1,52 @@
+/* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+/* external css: flickity.css */
+
+* { box-sizing: border-box; }
+
+body { font-family: sans-serif; }
+
+.carousel {
+  background: #FAFAFA;
+}
+
+.carousel-cell {
+  width: 66%;
+  height: 300px;
+  margin-right: 10px;
+  background: #8C8;
+  border-radius: 5px;
+  background-position: center center;
+  background-size: cover;
+}
+
+
+.hero-slider {
+position: relative;
+top: 6.4rem;
+/* background-image: url('./images/westSuffolkCross2018-1.jpeg'); */
+height: 34rem;
+
+}
+/* 
+#lead{
+    background-image: url("images/wsw1.jpeg");
+    background-repeat: no-repeat;
+background-size: cover;
+  }
+  
+  #lead2{
+    background-image: url("images/WSW_AngelHill.jpeg");
+    background-repeat: no-repeat;
+background-size: cover;
+  }
+  
+  #lead3{
+    background-image: url("images/westSuffolkCross2018-1.jpeg");
+    background-repeat: no-repeat;
+background-size: cover;
+  } */
