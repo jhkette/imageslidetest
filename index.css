@@ -15,8 +15,8 @@ body { font-family: sans-serif; }
 }
 
 .carousel-cell {
-  width: 66%;
-  height: 300px;
+  width: 95%;
+  height: 36rem;
   margin-right: 10px;
   background: #8C8;
   border-radius: 5px;
@@ -29,15 +29,18 @@ body { font-family: sans-serif; }
 position: relative;
 top: 6.4rem;
 /* background-image: url('./images/westSuffolkCross2018-1.jpeg'); */
-height: 34rem;
+height: 36rem;
 
 }
-/* 
+
+
 #lead{
     background-image: url("images/wsw1.jpeg");
     background-repeat: no-repeat;
 background-size: cover;
   }
+
+ 
   
   #lead2{
     background-image: url("images/WSW_AngelHill.jpeg");
@@ -49,4 +52,4 @@ background-size: cover;
     background-image: url("images/westSuffolkCross2018-1.jpeg");
     background-repeat: no-repeat;
 background-size: cover;
-  } */
+  }

@@ -1,7 +1,8 @@
-const Flickity = require('flickity');
-require('flickity-bg-lazyload');
-
-
-let flkty = new Flickity( '.carousel', {
-    bgLazyLoad: true
-  });
+var elem = document.querySelector('.carousel');
+var flkty = new Flickity( elem, {
+  // options
+ 
+  "wrapAround": true ,
+  bgLazyLoad: true,
+  contain: true
+});
